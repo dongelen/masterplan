@@ -1,0 +1,4 @@
+period:
+  start_week: 35
+  holiday_weeks:
+    - week: 34

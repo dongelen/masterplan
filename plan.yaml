@@ -1,0 +1,39 @@
+weeks:
+  - number: 1
+    monday:
+      sessions: 
+        - title: Kickoff
+          description: Dit is de start van de minor, hier moet je bij zijn
+          start_time: 9.00
+          length: 90
+        - title: Presentatie concepten
+          start_time: 15.00
+          length: 90
+    thursday:
+      sessions: 
+        - title: Eindpresentatie
+          description: Presentatie van de eindproducten
+          start_time: 10.00
+          length: 120
+  - number: 2          
+    monday:
+      sessions: 
+        - title: Briefing 1
+          description: Briefing van de opdrachten
+          start_time: 10.00
+          length: 90
+        - title: Overzicht minor
+          description: Wat is er allemaal te leren in de minor
+          start_time: 13.00
+          length: 90
+
+    tuesday:
+      sessions: 
+        - title: Briefing 2
+          description: Briefing van de opdrachten
+          start_time: 10.00
+          length: 90
+        - title: Web programmeren sessie 1
+          description: Ruby on Rails-introductie.
+          start_time: 13.00
+          length: 90
